@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC6570252C6DD42D00A6BED3 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC6570242C6DD42D00A6BED3 /* RootViewController.xib */; };
 		ACCB67B22C6B37B900645B39 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACCB67B12C6B37B900645B39 /* RootViewController.swift */; };
 		ACCC84F62C69DE0900DBD646 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACCC84F52C69DE0900DBD646 /* AppDelegate.swift */; };
 		ACCC84FA2C69DE0900DBD646 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACCC84F92C69DE0900DBD646 /* ViewController.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC6570242C6DD42D00A6BED3 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
 		ACCB67B12C6B37B900645B39 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		ACCC84F22C69DE0900DBD646 /* LayoutApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LayoutApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACCC84F52C69DE0900DBD646 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				ACCC84F52C69DE0900DBD646 /* AppDelegate.swift */,
 				ACCC84F92C69DE0900DBD646 /* ViewController.swift */,
 				ACCB67B12C6B37B900645B39 /* RootViewController.swift */,
+				AC6570242C6DD42D00A6BED3 /* RootViewController.xib */,
 				ACCC84FE2C69DE0A00DBD646 /* Assets.xcassets */,
 				ACCC85002C69DE0A00DBD646 /* LaunchScreen.storyboard */,
 				ACCC85032C69DE0B00DBD646 /* Info.plist */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACCC85022C69DE0A00DBD646 /* LaunchScreen.storyboard in Resources */,
+				AC6570252C6DD42D00A6BED3 /* RootViewController.xib in Resources */,
 				ACCC84FF2C69DE0A00DBD646 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
